@@ -1,4 +1,4 @@
-# rape-mugging-alarm-raspberrypi
+# Raspberry Pi Rape and Mugging Alarm
 I am making a low-cost safety alarm from a Raspberry Pi Zero.
 
 This is inspired by a recent interest in Raspberry Pis and ring wearables, such as the beautiful yet exorbitantly priced Siren.
