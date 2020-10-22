@@ -31,6 +31,7 @@ Sold by: Shapenty
 $6.49
 
 I could've gotten a GPS module for $3.95 from AdaFruit (Passive GPS Antenna uFL - 15mm x 15mm 1 dBi gain), so that bites.
+I'm not sure if GPS is necessary with the Raspberry Pi Zero W's built-in wifi.
 
 I am going to borrow solder, solder iron and station, and wire from a friend.
 I will update with what the casing costs once I'm done putting this together.
