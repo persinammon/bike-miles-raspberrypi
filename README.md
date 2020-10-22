@@ -36,7 +36,7 @@ I am going to borrow solder, solder iron and station, and wire from a friend.
 I will update with what the casing costs once I'm done putting this together.
 
 Overall, if the purchases are done optimally and the purchaser lives in the U.S., I estimate the total investment in this system to be $47.38 with some leftover parts.
-Doing a price comparison, unfortunately my system does not hold muster compared to a flood of car keychains with sirens on them retailing for $15-20. However, I will still finish the project and see how it goes.
+Doing a price comparison, unfortunately my system does not hold muster compared to a flood of car keychains with sirens on them retailing for $15-20. However, I will still finish the project and see how it goes. My system does have the advantages of being highly customizable, having a warm yellow alarm option of silently texting friends/family/or police, and being in my humble opinion way better looking than most of those keychains.
 
 ## Current planned functionalities
 - Silent Alarm to discreetly text family, friends, and/or local police. 
